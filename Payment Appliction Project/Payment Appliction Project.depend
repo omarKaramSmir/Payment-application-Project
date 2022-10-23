@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1663968311 source:f:\payment appliction project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"Application/App.h"
+
+1663968819 source:f:\payment appliction project\application\app.c
+	"App.h"
+
+1663968757 source:f:\payment appliction project\server\server.c
+	"Server.h"
+
+1663953234 source:f:\payment appliction project\terminal\terminal.c
+	"Terminal.h"
+
+1663849651 f:\payment appliction project\card\card.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+
+1663783248 f:\payment appliction project\server\server.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"../Terminal/Terminal.h"
+	"../Card/Card.h"
+
+1663951437 f:\payment appliction project\terminal\terminal.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"../Card/Card.h"
+
+1663876946 f:\payment appliction project\application\app.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"../Card/Card.h"
+	"../Terminal/Terminal.h"
+	"../Server/Server.h"
+
+1663948757 source:f:\payment appliction project\card\card.c
+	"Card.h"
+
+1666457095 source:f:\payment appliction projectt\payment appliction project\application\app.c
+	"App.h"
+
+1663876946 f:\payment appliction projectt\payment appliction project\application\app.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"../Card/Card.h"
+	"../Terminal/Terminal.h"
+	"../Server/Server.h"
+
+1663849651 f:\payment appliction projectt\payment appliction project\card\card.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+
+1663951437 f:\payment appliction projectt\payment appliction project\terminal\terminal.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"../Card/Card.h"
+
+1666457060 f:\payment appliction projectt\payment appliction project\server\server.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"../Terminal/Terminal.h"
+	"../Card/Card.h"
+
+1663948757 source:f:\payment appliction projectt\payment appliction project\card\card.c
+	"Card.h"
+
+1663968959 source:f:\payment appliction projectt\payment appliction project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"Application/App.h"
+
+1666456819 source:f:\payment appliction projectt\payment appliction project\server\server.c
+	"Server.h"
+
+1663953234 source:f:\payment appliction projectt\payment appliction project\terminal\terminal.c
+	"Terminal.h"
+
