@@ -58,8 +58,12 @@ possible
      3- allow the user to save the results of the operations to a new file.
 
 # snapshots # 
- Snap
-
+![format](https://user-images.githubusercontent.com/93954411/216642107-c3bd4803-966f-452e-9c58-dac4159036f1.png)
+![minifying](https://user-images.githubusercontent.com/93954411/216642627-329db6d6-9ab0-428b-b13d-782466a014f7.png)
+![xml_to_json](https://user-images.githubusercontent.com/93954411/216642708-bea32fb3-2745-49f0-80a6-4d81a8745af4.png)
+![compress](https://user-images.githubusercontent.com/93954411/216642781-7d12f87d-d0ec-4aed-8efc-9a276ce31c48.png)
+![Error_list](https://user-images.githubusercontent.com/93954411/216642908-74252613-77cc-484c-977d-77b3696db730.png)
+![Error_solve](https://user-images.githubusercontent.com/93954411/216642944-a8a10519-7b37-41ef-b9ae-62c71a12b63d.png)
 
 # setup #
 To run this project, you need only to pull the .exe file and run it. 
