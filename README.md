@@ -5,9 +5,10 @@ This project working on developing a GUI based program to parse and visualize an
 , Each user has id (unique), name, list of posts, list of followers.Each post has text and list of topics.
 
 # project description # 
+
 - In this project we will work on some processes on the xml file like :
 
-  1- Formatting (Prettifying) the XML: the XML file should be well formatted by keeping the 
+   1- Formatting (Prettifying) the XML: the XML file should be well formatted by keeping the 
 indentation for each level.
 
    2- Converting XML to JSON: JSON (Javascript Object Notation) is another format that is used 
@@ -47,6 +48,7 @@ extract some important data:
 mentioned.
 
 - finally we will build qt application to interface with our xml application and to : 
+    
      1- allow the user to choose the XML file that will be used or enter the xml 
 manually in a text area
 
@@ -56,7 +58,7 @@ possible
      3- allow the user to save the results of the operations to a new file.
 
 # snapshots # 
-
+ Snap
 
 
 # setup #
